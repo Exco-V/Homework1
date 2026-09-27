@@ -1,0 +1,11 @@
+*.log
+*.tmp
+secret.txt
+node_modules/
+build/
+.env
+.DS_Store
+**/*.bak
+logs/*
+temp_*
+!logs/important.log
